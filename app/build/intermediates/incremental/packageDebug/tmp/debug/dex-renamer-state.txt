@@ -1,0 +1,4 @@
+#Sun Dec 29 22:25:42 CST 2019
+base.0=/Users/edwardbottom/Desktop/GitFiles/KotlinBrewery/Kotlin_Breweries/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
